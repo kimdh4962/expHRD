@@ -27,12 +27,16 @@ Here's how you can use the expHRD code with an example:
 To run the code, follow these steps:
 
 1. Navigate to the expHRD directory:
-  ```bash
-  cd expHRD/code
-  ```
+```bash
+cd expHRD/code
+```
 2. Execute the R script for HRD score prediction:
-  ```bash
-  Rscript CAL_exp_HRD_github.R
-  ```
-
+```bash
+Rscript CAL_exp_HRD_github.R
+```
+3. Check the output file for the prediction:
+```bash
+vi ./../output/OUT_TABLE.csv
+```
+<br><hr/>
 Feel free to replace the input data with your own if needed. If you encounter any issues or have questions, please refer to the documentation or open an issue on this repository.
