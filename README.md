@@ -14,7 +14,8 @@ This is a source code for expHRD, An Individualized, Transcriptome-based Predict
 
 ## Installation
 
-    git clone https://github.com/kimdh4962/expHRD
+    git clone https://github.com/kimdh4962/expHRD/code
+    Rscript 
 
 
 ## Usage with examples
