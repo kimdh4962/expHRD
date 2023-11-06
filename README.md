@@ -7,10 +7,10 @@ This is a source code for expHRD, An Individualized, Transcriptome-based Predict
 
 
 ## Packages required
-  - R (v #.##.#)
-  - GSVA
-  - ggplot2
-  - ggpubr
+  - R (v 4.2.0)
+  - GSVA (v 1.46.0)
+  - ggplot2 (v 3.4.0)
+  - ggpubr (v 0.5.0)
 
 ## Installation
 
