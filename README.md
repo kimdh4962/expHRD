@@ -1,5 +1,5 @@
 # expHRD
-An Individualized, Transcriptome-based Prediction Model for Homologous Recombination Deficiency Assessment in Cancer
+An Individualized, Transcriptome-based Prediction Model for Homologous Recombination Deficiency (HRD) Assessment in Cancer
 
 
 ## Description
@@ -14,21 +14,11 @@ This is a source code for expHRD, An Individualized, Transcriptome-based Predict
 
 ## Installation
 
-    git clone https://github.com/kimdh4962/expHRD/code
-    Rscript 
+    git clone https://github.com/kimdh4962/expHRD
+    cd expHRD/code
+    Rscript CAL_exp_HRD_github.R
 
 
-## Usage with examples
-### 1. 
-- **pre-requirement: 
-- input:  
-
-
-### 2. 
-- input: 
-- 
-- running example
-
-      cd 
-- output directory and files:
-    - 
+## Examples
+  - Input: RNA-seq data of triple negative breast cancer (TNBC) patients from The Cancer Genome Atlas Program (TCGA)
+  - Output: Predicted HRD scores of the patients
