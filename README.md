@@ -15,10 +15,12 @@ This is a source code for expHRD, An Individualized, Transcriptome-based Predict
 ## Installation
 
     git clone https://github.com/kimdh4962/expHRD
-    cd expHRD/code
-    Rscript CAL_exp_HRD_github.R
+
 
 
 ## Examples
   - Input: RNA-seq data of triple negative breast cancer (TNBC) patients from The Cancer Genome Atlas Program (TCGA)
   - Output: Predicted HRD scores of the patients
+
+    cd expHRD/code
+    Rscript CAL_exp_HRD_github.R
